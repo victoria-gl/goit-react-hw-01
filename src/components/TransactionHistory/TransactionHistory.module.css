@@ -1,0 +1,10 @@
+.transactionHistory {
+  border: 1px solid white;
+  color: white;
+  width: 500px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 500;
+}
